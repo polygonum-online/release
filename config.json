@@ -1,5 +1,5 @@
 {
-	"hashURL" : "https://blupm.com/hash.txt",
+	"hashURL" : "https://raw.githubusercontent.com/polygonum-online/release/main/hash.txt",
 	"downloadURL" : "http://blupm.com/Application.zip",
 	"message" : ""
 }
